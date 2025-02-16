@@ -163,7 +163,7 @@ while True:
         Llist.insertIndex(val, index)
 
     elif answer == "3":
-        Llist.removefirstNode()
+        Llist.removefirstnode()
 
     elif answer == "4":
         val = int(input("Enter number to insert at the end:\n "))
