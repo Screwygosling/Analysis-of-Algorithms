@@ -22,6 +22,7 @@
 
 # Queues
 ### https://asciinema.org/a/JqCalvJMinX86itWZVUteKtOE
+### Queues are a lot like linked lists in that they are both lists of items (char, values, etc). The difference lies in how they operate. Linked Lists are nodes that point to each other whereas queue is a data structure that follows the FIFO (First-in-First-Out) principle. 
 
 # Heaps
 ### https://asciinema.org/a/J54pR2dlzFIYwTPXGJii2T8sb
