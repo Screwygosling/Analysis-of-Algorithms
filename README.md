@@ -26,14 +26,19 @@
 
 # Heaps
 ### https://asciinema.org/a/J54pR2dlzFIYwTPXGJii2T8sb
+### Heaps are a lot like Trees in that they are both tree data structures, however heaps must satiesfy the heap property: for every node, the value of its children must be greater than or equal to its own value. 
 
 # Trees
 ### https://asciinema.org/a/lW8q9spoGfRDpIjNStcw5IVXz
+### Trees are hierarchical data structures that is used to represent and organize data in the form of parent child relationship. The topmost node is called the root, and the nodes below it are called child nodes. Unlike heaps, they dont follow the heap property so they can have child nodes that are less than its own value.
+
 
 # Graphs
 ### https://asciinema.org/a/xKqCP4zxoZAmtUQ3lm6ituw9j
 ### ![image](https://github.com/user-attachments/assets/d3aaf7ad-46ab-49bf-a707-19f5d0c01900)
+### Graphs are data structures that are non-linear consisting of vertices and edges. This edges connect nodes/vertices to each other. These connections allow us to visualize data relationships.
 
 
 # Stack
 ### https://asciinema.org/a/YMEIJAfVFpexrcyG9vu2nnFZU
+### Stacks are linear data structures that follow a particular order: either LIFO (Last-In-First-Out) or FILO (First-In-Last-Out). 
