@@ -8,12 +8,15 @@
 
 ## Circular Linked Lists
 ### https://asciinema.org/a/jJsqvGZKRlnapLmh6fs6w8Am9
+### Circular Linked Lists are lists that are a lot like Singly linked lists except the last node points back to the first one, creating a loop. This type of linked list has continuous traversal due to the loop. The first node points to the second, the second to the third and so on, until it reaches the last node which points back to the first node.
 
 ## Singly Linked Lists
 ### https://asciinema.org/a/pk9ySwBqJ8jmcttfLzasXAMj3
+### Singly Linked Lists are lists of nodes that point only to the next node. Unlike Circular linked lists, the last node of this list point to NULL; ending the list. The first node points to the second, and so on. The last node points to NULL because it has nothing else to point to.
 
 ## Doubly Linked Lists
 ### https://asciinema.org/a/V5nmBlKvXhCgSWfmCNHmZBuw2
+### Doubly Linked Lists are lists of nodes that point to both the first and the second, etc. The first node points at the second, the second node points BOTH at the first and third node, and so on. The last node points BOTH to the node before it and to NULL.
 
 
 
