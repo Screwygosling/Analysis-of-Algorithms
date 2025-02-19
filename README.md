@@ -2,7 +2,7 @@
 
 ## This is in compliance with our Analysis of Algorithms project
 
-### Below are the snippets of code, a link to a recording of the terminal upon running it, and a brief explanation of how each data structure operates
+### Below is: a link to a recording of the terminal upon running it, and a brief explanation of how each data structure operates
 
 # Linked Lists
 
